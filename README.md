@@ -1,5 +1,5 @@
 # VerifyNG
-
+![Live API](screenshots/04-live-verify.png)
 An account name verification service built on **Zone's Name Inquiry API**. Give it a Nigerian bank account number and bank code; it calls Zone, returns the account holder's name (or a clear "not found"), logs every check, and serves the result through a clean API.
 
 > This is the "confirm the recipient's name before you send money" step that every Nigerian banking app performs — built as a real integration against Zone's published API.
